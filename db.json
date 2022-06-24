@@ -1,0 +1,10 @@
+{
+  "Products": [
+    {
+      "productName": "RADIO",
+      "productPrize": "3456",
+      "productImage": "https://m.media-amazon.com/images/I/71OoBhxWsnS._AC_SR180,120_QL70_.jpg",
+      "id": 1
+    }
+  ]
+}

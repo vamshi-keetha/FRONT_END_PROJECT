@@ -1,0 +1,166 @@
+.logo{
+    width:150px;
+    color: aqua;
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lang{
+    width: 20px;
+    margin-left: 4px;
+}
+.hom{
+    width: 40px;
+    height: 100%;
+}
+.caro{
+    width: 800px;
+    text-align:center;
+}
+.karo{
+    width: 750px;
+    height:300px;
+}
+.caro{
+    width: 650px;
+
+}
+.imagecar{
+    width:700px;
+    text-align: center;
+}
+.body{
+    text-align: center;
+    padding: 20px;
+}
+.card-img-top{
+    width: 25%;
+    text-align: center;
+}
+
+.wait{
+    color: aqua;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:rebeccapurple;
+}
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: firebrick;
+}
+
+.rach{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bio{
+    width: 900px;
+    height: 400px;
+}.math{
+    width: 900px;
+    height: 400px;
+}
+.ind{
+    width: 200px;
+}
+.tff{
+    font-size: 35px;
+}
+.hel{
+    color: blue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.phy{
+    width: 900px;
+    height: 400px;
+}
+.satv{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+.satv:hover{
+    transform: scale(1.1);
+}
+.form{
+    margin-left: 270px;
+}
+
+.card:hover{
+    transform: scale(1.1); 
+   }  
+.huge{
+   padding: 20px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 42px;
+   background-color: antiquewhite;
+   margin-top: 25px;
+   text-align: center;
+}
+.mahi{
+    font-family:cursive;
+    font-size: 17px;
+    padding: 20px;
+}
+.book1{
+    text-align: center;
+    padding: 20px;
+    width: 1200px;
+}
+.instruct{
+    padding: 25px;
+    font-size: 18px;
+    font-weight:initial;
+    
+    margin-top: 30px;
+
+}
+.ven{
+    font-family: cursive;
+}
+.search{
+    width: 32px;
+}
+.caution{
+    width: 35px;
+}
+.caut{
+    width: 30px;
+}
+.instruct{
+    padding: 20px;
+    font-size: 18px;
+    font-weight:initial;
+    border: 3px solid blue;
+    margin-top: 30px;
+
+}
+.vam{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fash{
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.imgfash{
+    margin-left: 150px;
+    padding: 20px;
+}
+.van{
+    width: 180px;
+}
+.ven{
+    text-align: center;
+    font-size: 30px;
+}
+.icon{
+    color: yellow;
+}
+.just{
+    margin-left: 500px;
+    padding-left: 200px;
+}
